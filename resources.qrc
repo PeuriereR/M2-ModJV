@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>data/charte8.png</file>
+        <file>data/charte7.png</file>
+        <file>data/charte6.png</file>
+        <file>data/charte5.png</file>
+        <file>data/charte4.png</file>
+        <file>data/charte1.png</file>
+        <file>data/charte2.png</file>
+        <file>data/charte3.png</file>
+        <file>data/height.png</file>
+        <file>data/heightmap.png</file>
+        <file>data/sedchart2.png</file>
+        <file>data/sedchart.png</file>
+        <file>data/biome2.png</file>
+        <file>data/biome.png</file>
+        <file>data/image.png</file>
+    </qresource>
+</RCC>
